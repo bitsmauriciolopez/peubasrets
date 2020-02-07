@@ -33,5 +33,8 @@
             "expirationDate": "11/2022",
             "tokenized": true
         }
+    },
+    "profile": {
+      "name": "typicode"
     }
 }
