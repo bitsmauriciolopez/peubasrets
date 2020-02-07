@@ -12,7 +12,6 @@
         "phoneNumber": "19000000",
         "customerIpAddress": "127.0.0.1",
         "paymentChannel": "MiTigoWebPagoTarjetas",
-        "orderBody": [],
         "processingPartnerName": "CyberSource",
         "deviceId": "valueOptional",
         "applicationName": "mitigo-web-home-invoice-uat-ni",
@@ -34,6 +33,5 @@
             "expirationDate": "11/2022",
             "tokenized": true
         }
-    },
-    "errors": []
+    }
 }
