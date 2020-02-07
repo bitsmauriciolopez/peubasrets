@@ -2,37 +2,7 @@
     "httpStatusCode": 200,
     "body": {
         "orderId": 32089,
-        "purchaseOrderId": "70209",
-        "transactionId": "32087",
-        "status": "Open",
-        "currentPaymentStatus": "Open",
-        "finalPaymentStatus": "Open",
-        "customerName": " ",
-        "email": "andres.cavallin@millicom.com",
-        "phoneNumber": "19000000",
-        "customerIpAddress": "127.0.0.1",
-        "paymentChannel": "MiTigoWebPagoTarjetas",
-        "processingPartnerName": "CyberSource",
-        "deviceId": "valueOptional",
-        "applicationName": "mitigo-web-home-invoice-uat-ni",
-        "accountType": "contracts",
-        "accountNumber": "80681",
-        "productReference": "0",
-        "paymentAmount": "1697.87",
-        "paymentCurrencyCode": "NIO",
-        "creationDate": "2020-02-06T22:17:53Z",
-        "requiresFulfillment": "true",
-        "paymentStartTimeStamp": "2020-02-06T22:17:53Z",
-        "merchantNumber": "1",
-        "merchantName": "millicom_ni_hogar",
-        "enforcePayloadEncryption": "false",
-        "paymentInstrument": {
-            "paymentMethodId": 1,
-            "paymentMethodName": "CC",
-            "maskedAccountId": "417632XXXXXX3309",
-            "expirationDate": "11/2022",
-            "tokenized": "true"
-        }
+        "purchaseOrderId": "70209"
     },
     "profile": {
       "name": "typicode"
