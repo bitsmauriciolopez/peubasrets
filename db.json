@@ -1,7 +1,6 @@
 {
-    "httpStatusCode": 200,
+
     "body": {
-        "orderId": 32089,
         "purchaseOrderId": "70209"
     },
     "profile": {
